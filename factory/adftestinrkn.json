@@ -1,0 +1,9 @@
+{
+	"name": "adftestinrkn",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0eb2e31e-297c-4c1c-8b46-2ffe750c44d6",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
